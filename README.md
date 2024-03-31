@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Khem Raksa Peou</h1>
-<h3 align="center">An application developer from Cambodia specializing in backend , mobile and desktop app development</h3>
+<h3 align="center">An application developer from Cambodia specializing in backend, mobile and desktop app development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khemraksa&label=Profile%20views&color=0e75b6&style=flat" alt="khemraksa" /> </p>
 
